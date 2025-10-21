@@ -1,8 +1,8 @@
 # Asterisk-monotering-using-Python
 
-Asterisk Monitoring Dashboard
 
-Overview
+
+Asterisk Monitoring Dashboard(thia is not a complete project created under DRDO copywrite )
 
 This project provides real-time monitoring of an Asterisk VoIP server using Dash and Plotly. It includes two dashboards:
 
@@ -73,13 +73,6 @@ PJSIP channel stats with jitter, packet loss analysis.
 
 Displays PJSIP endpoint states.
 
-License
-
-This project is licensed under the MIT License.
-
-Contributors
-
-Your Name (@yourusername)
 
 Acknowledgments
 
